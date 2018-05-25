@@ -1,0 +1,5 @@
+http://cdn.raletag.gq/disconnectmalwarehosts.txt
+http://cdn.raletag.gq/malwaredomainlisthosts.txt
+http://cdn.raletag.gq/rueasyhosts.txt
+http://cdn.raletag.gq/spamhosts.txt
+http://cdn.raletag.gq/yoyohosts.txt
